@@ -32,15 +32,6 @@ Flask, Django, Pygame, Ursina, Pandas, NumPy, TensorFlow (Keras), scikit-learn
 **Game Development:**  
 Unity
 
----
-
-**Tech Badges:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
 
@@ -64,7 +55,6 @@ Unity
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh_Sonawane-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ganesh-sonawane-483590280)  
 ✉️ Email: sonawaneganu3101@gmail.com
 
 ---
