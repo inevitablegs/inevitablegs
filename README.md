@@ -56,6 +56,9 @@ Unity
 ### 📫 Connect with Me
 
 ✉️ Email: sonawaneganu3101@gmail.com
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ganesh-sonawane-483590280)
 
 ---
 
