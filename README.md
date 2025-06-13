@@ -11,9 +11,9 @@ I'm passionate about crafting smart applications and engaging games that solve r
 
 ### 🎯 What I’m Working On
 
-- Improving AI models for image processing and face authentication  
-- Developing games with Unity, focusing on smooth gameplay and realistic graphics  
-- Building scalable web apps with Django and React  
+- Exploring the GenAIs and Agentic AIs  
+- Developing games with Unity, focusing on learning game concepts  
+- Building scalable web apps with Django and HTML-CSS 
 - Experimenting with Android app development using Kotlin and Java  
 
 ---
