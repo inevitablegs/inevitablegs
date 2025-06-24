@@ -52,6 +52,11 @@ Unity
 - Practicing clean, maintainable code and collaborative development
 
 ---
+### 🏆 Achievements
+
+- 🥈 2nd Place - Quasar 3.0 National Hackathon (March 2025) 
+- 🏆 Winner - HackToFuture 3.0 National Hackathon (April 2025) 
+---
 
 ### 📫 Connect with Me
 
