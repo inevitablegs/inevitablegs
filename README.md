@@ -21,16 +21,19 @@ I'm passionate about crafting smart applications and engaging games that solve r
 ### 🔧 Technologies & Skills
 
 **Skills:**  
-Machine Learning, AI, Agentic & Generative AI, Data Science, Game Development, Django (basic)
+Machine Learning, AI, Agentic & Generative AI, Data Science, Game Development
 
 **Programming Languages:**  
 C, C++, Python, Java, C#
 
 **Libraries & Frameworks:**  
-Flask, Django, Pygame, Ursina, Pandas, NumPy, TensorFlow (Keras), scikit-learn
+Flask, Django, Tkinter, Ursina, Pandas, NumPy 
+
+**Machine Learning:**  
+TensorFlow (Keras), scikit-learn, OpenCV, YOLO, NLTK, spaCy
 
 **Game Development:**  
-Unity
+Unity + C#, PyGame
 
 
 ---
@@ -40,7 +43,7 @@ Unity
 - **Streesakhi** – Pregnancy awareness platform with custom users & integrated educational videos  
 - **InsightHire** – Interview management system with separate flows for interviewers and candidates  
 - **Engineering Student** – A 2D game simulating real student life challenges  
-- **Chess Move Predictor** – AI-powered app that suggests the next best chess move from board images
+- **Supply Chain Namagement with Blockchain** - Blockchain-based supply chain platform with AI automation and secure payments
 
 ---
 
