@@ -44,6 +44,13 @@ Unity
 
 ---
 
+### 🏆 Achievements
+
+- 🥈 2nd Place - Quasar 3.0 National Hackathon (March 2025) 
+- 🏆 Winner - HackToFuture 3.0 National Hackathon (April 2025)
+  
+---
+
 ### 📚 Learning & Growth
 
 - Deepening knowledge in AI, especially face detection and authentication  
@@ -51,11 +58,6 @@ Unity
 - Enhancing software design skills focusing on modularity and scalability  
 - Practicing clean, maintainable code and collaborative development
 
----
-### 🏆 Achievements
-
-- 🥈 2nd Place - Quasar 3.0 National Hackathon (March 2025) 
-- 🏆 Winner - HackToFuture 3.0 National Hackathon (April 2025) 
 ---
 
 ### 📫 Connect with Me
