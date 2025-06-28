@@ -67,27 +67,32 @@ Unity + C#, PyGame
 
 <p align="center">
   <a href="mailto:sonawaneganu3101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" height="35" />
+    <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" height="30" />
   </a>
 </p>
 
-<p align="center" justify-content="space-between">
+<p align="center">
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/the_inevitable_gs">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" height="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://x.com/inevitable_gs">
     <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white" height="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://leetcode.com/inevitable_gs">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" height="30" />
-  </a>
-  <a href="https://github.com/inevitable-GS">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/inevitablegs">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" height="30" />
   </a>
 </p>
+
 
 
 ---
