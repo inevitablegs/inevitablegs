@@ -64,11 +64,13 @@ Unity + C#, PyGame
 ---
 
 ### 📫 Connect with Me
-
 <p align="center">
   <a href="mailto:sonawaneganu3101@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" />
   </a>
+</p>
+<p align="center">
+  
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
