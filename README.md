@@ -69,7 +69,7 @@ Unity + C#, PyGame
     <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" />
   </a>
 </p>
-<p align="center">
+<p align="center" justify-content="space-around>
   
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
