@@ -65,10 +65,10 @@ Unity + C#, PyGame
 
 ### 📫 Connect with Me
 
-
-
 <p align="center">
-  Email: sonawaneganu3101@gmail.com
+  <a href="mailto:sonawaneganu3101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-blue?logo=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
@@ -81,12 +81,11 @@ Unity + C#, PyGame
   <a href="https://leetcode.com/inevitable_gs">
     <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" />
   </a>
-  <a href="https://github.com/inevitablegs">
+  <a href="https://github.com/inevitable-GS">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
   </a>
+  
 </p>
-
-
 
 ---
 
