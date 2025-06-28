@@ -71,7 +71,7 @@ Unity + C#, PyGame
   </a>
 </p>
 
-<p align="center" justify-content="space-evenly">
+<p align="center" justify-content="space-between">
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="30" />
   </a>
