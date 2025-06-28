@@ -71,21 +71,21 @@ Unity + C#, PyGame
   </a>
 </p>
 
-<p align="center">
+<p align="center" justify-content="space-evenly">
   <a href="https://www.linkedin.com/in/inevitable-gs">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="30" />
   </a>
   <a href="https://www.instagram.com/the_inevitable_gs">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" height="30" />
   </a>
   <a href="https://x.com/inevitable_gs">
-    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white" height="30" />
   </a>
   <a href="https://leetcode.com/inevitable_gs">
-    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" height="35" />
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" height="30" />
   </a>
   <a href="https://github.com/inevitable-GS">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" height="30" />
   </a>
 </p>
 
