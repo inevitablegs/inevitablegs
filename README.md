@@ -65,9 +65,10 @@ Unity + C#, PyGame
 
 ### 📫 Connect with Me
 
-Email: sonawaneganu3101@gmail.com
+
 
 <p align="center">
+  Email: sonawaneganu3101@gmail.com
   <a href="https://www.linkedin.com/in/inevitable-gs">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
@@ -84,8 +85,6 @@ Email: sonawaneganu3101@gmail.com
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
   </a>
 </p>
-
-
 
 
 
