@@ -67,11 +67,25 @@ Unity + C#, PyGame
 
 Email: sonawaneganu3101@gmail.com
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/inevitable-gs">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/the_inevitable_gs">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/inevitable_gs">
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/inevitable_gs">
+    <img src="https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode" />
+  </a>
+  <a href="https://github.com/inevitablegs">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/inevitable-gs)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/the_inevitable-gs)
-[![X](https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/inevitable-gs)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve_Problems-orange?logo=leetcode)](https://leetcode.com/inevitable-gs)
+
 
 
 
