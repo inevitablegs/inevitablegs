@@ -68,6 +68,10 @@ Unity + C#, PyGame
 Email: sonawaneganu3101@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/inevitable-gs)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
+[![X](https://img.shields.io/badge/X-Follow-1DA1F2?logo=twitter&logoColor=white)](https://x.com/your_username)
+
+
 
 ---
 
