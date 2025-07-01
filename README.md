@@ -1,6 +1,6 @@
 # 👋 Hi, I'm GS (Ganesh Sonawane)
 
-### Software Developer | Game Developer | AI Enthusiast
+### Software Developer | Game Developer | AI Enthusiast 
 
 ---
 
