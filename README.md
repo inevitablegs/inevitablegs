@@ -66,7 +66,7 @@ Unity + C#, PyGame
 ### 📦 Featured Python Packages
 
 - 🔹 [**readmegen**](https://pypi.org/project/readmegen)  
-  [GitHub Repo](https://github.com/inevitablegs/readmegen) • [PyPI Package](https://pypi.org/project/readmegen)  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-readmegen-blue?logo=github)](https://github.com/inevitablegs/readmegen) • [![PyPI version](https://img.shields.io/pypi/v/gitpush-tool.svg)](https://pypi.org/project/gitpush-tool/) 
   A CLI tool that generates professional and structured `README.md` files for your projects.  
   It asks questions and creates a polished README with sections like Overview, Features, Installation, and Usage.  
   > ✅ Ideal for developers who want fast, consistent project documentation.
