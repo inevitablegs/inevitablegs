@@ -65,7 +65,8 @@ Unity + C#, PyGame
 
 ### 📦 Featured Python Packages
 
-- 🔹 **readmegen-cli** 
+- 🔹 **readmegen-cli**
+  
   [![GitHub Repo](https://img.shields.io/badge/GitHub-readmegen-blue?logo=github)](https://github.com/inevitablegs/readmegen-cli) • [![PyPI version](https://img.shields.io/pypi/v/readmegen-cli.svg)](https://pypi.org/project/readmegen-cli/)
   
   A CLI tool that generates professional and structured `README.md` files for your projects.  
@@ -73,7 +74,8 @@ Unity + C#, PyGame
   > ✅ Ideal for developers who want fast, consistent project documentation.
 
 - 🔹 **gitpush**
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-readmegen-blue?logo=github)](https://github.com/inevitablegs/gitpush) • [![PyPI version](https://img.shields.io/pypi/v/readmegen-cli.svg)](https://pypi.org/project/gitpush)
+  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-gitpush-blue?logo=github)](https://github.com/inevitablegs/gitpush) • [![PyPI version](https://img.shields.io/pypi/v/gitpush.svg)](https://pypi.org/project/gitpush)
   
   A smart Git CLI helper that checks if your local branch is ahead and pushes accordingly.  
   Also provides git status insights and optionally opens GitHub when everything is synced.  
