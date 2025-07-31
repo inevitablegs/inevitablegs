@@ -43,7 +43,8 @@ Unity + C#, PyGame
 - **Streesakhi** – Pregnancy awareness platform with custom users & integrated educational videos  
 - **InsightHire** – Interview management system with separate flows for interviewers and candidates  
 - **Engineering Student** – A 2D game simulating real student life challenges  
-- **Supply Chain Namagement with Blockchain** - Blockchain-based supply chain platform with AI automation and secure payments
+- **Supply Chain Management with Blockchain** – Blockchain-based supply chain platform with AI automation and secure payments  
+- **AiTutor** – AI-powered personalized learning platform using Django, Gemini, and Tailwind CSS with subject filters, quiz mode, and dark mode support  
 
 ---
 ### 📦 Featured Python Packages
