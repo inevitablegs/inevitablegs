@@ -67,7 +67,7 @@ Unity + C#, PyGame
 
 - 🔹 **readmegen-cli**
   
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-readmegen-blue?logo=github)](https://github.com/inevitablegs/readmegen-cli) • [![PyPI version](https://img.shields.io/pypi/v/readmegen-cli.svg)](https://pypi.org/project/readmegen-cli/)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-readmegen-cli-blue?logo=github)](https://github.com/inevitablegs/readmegen-cli) • [![PyPI version](https://img.shields.io/pypi/v/readmegen-cli.svg)](https://pypi.org/project/readmegen-cli/)
   
   A CLI tool that generates professional and structured `README.md` files for your projects.  
   It asks questions and creates a polished README with sections like Overview, Features, Installation, and Usage.  
@@ -75,7 +75,7 @@ Unity + C#, PyGame
 
 - 🔹 **gitpush**
   
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-gitpush-blue?logo=github)](https://github.com/inevitablegs/gitpush) • [![PyPI version](https://img.shields.io/pypi/v/gitpush.svg)](https://pypi.org/project/gitpush)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-gitpush-tool-blue?logo=github)](https://github.com/inevitablegs/gitpush) • [![PyPI version](https://img.shields.io/pypi/v/gitpush-tool.svg)](https://pypi.org/project/gitpush-tool)
   
   A smart Git CLI helper that checks if your local branch is ahead and pushes accordingly.  
   Also provides git status insights and optionally opens GitHub when everything is synced.  
