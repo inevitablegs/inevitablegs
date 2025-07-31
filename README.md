@@ -46,23 +46,6 @@ Unity + C#, PyGame
 - **Supply Chain Namagement with Blockchain** - Blockchain-based supply chain platform with AI automation and secure payments
 
 ---
-
-### 🏆 Achievements
-
-- 🥈 2nd Place - Quasar 3.0 National Hackathon (March 2025) 
-- 🏆 Winner - HackToFuture 3.0 National Hackathon (April 2025)
-  
----
-
-### 📚 Learning & Growth
-
-- Deepening knowledge in AI, especially face detection and authentication  
-- Exploring multiplayer systems in Unity for online games  
-- Enhancing software design skills focusing on modularity and scalability  
-- Practicing clean, maintainable code and collaborative development
-
----  
-
 ### 📦 Featured Python Packages
 
 - 🔹 **readmegen-cli**
@@ -82,6 +65,22 @@ Unity + C#, PyGame
   > 🚀 Perfect for automating Git pushes safely and efficiently.
 
 ---
+
+### 🏆 Achievements
+
+- 🥈 2nd Place - Quasar 3.0 National Hackathon (March 2025) 
+- 🏆 Winner - HackToFuture 3.0 National Hackathon (April 2025)
+  
+---
+
+### 📚 Learning & Growth
+
+- Deepening knowledge in AI, especially face detection and authentication  
+- Exploring multiplayer systems in Unity for online games  
+- Enhancing software design skills focusing on modularity and scalability  
+- Practicing clean, maintainable code and collaborative development
+
+---  
 
 <h2 align="center">🌐 Connect with Me</h2>
 
