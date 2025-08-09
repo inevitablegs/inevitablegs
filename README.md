@@ -116,4 +116,4 @@ Unity + C#, PyGame
 ---
 
 
-Thanks for visiting! Feel free to check out my projects and packages or reach out. 🙌
+Thanks for visiting! Feel free to check out my projects and packages or reach out. 
