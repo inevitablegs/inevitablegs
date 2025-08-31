@@ -27,7 +27,7 @@ Machine Learning, AI, Agentic & Generative AI, Data Science, Game Development
 C, C++, Python, Java, C#
 
 **Libraries & Frameworks:**  
-Flask, Django, Tkinter, Ursina, Pandas, NumPy 
+Flask, Django, Tkinter, Ursina, Pandas, NumPy, FastAPI
 
 **Machine Learning:**  
 TensorFlow (Keras), scikit-learn, OpenCV, YOLO, NLTK, spaCy
