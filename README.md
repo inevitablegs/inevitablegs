@@ -2,10 +2,6 @@
 
 ### Software Developer | Game Developer | AI Enthusiast 
 
----
-
-![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inevitablegs&layout=compact&langs_count=30&theme=tokyonight)
-
 
 ---
 
