@@ -4,7 +4,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inevitablegs&layout=donut-vertical)
+![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inevitablegs&layout=bar&langs_count=30&theme=tokyonight)
+
 
 ---
 
