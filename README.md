@@ -4,6 +4,10 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inevitablegs&layout=compact)
+
+---
+
 🚀 **About Me**  
 I'm passionate about crafting smart applications and engaging games that solve real problems and entertain. Combining AI, full-stack development, and game design, I strive to create practical and enjoyable solutions. I love learning new technologies and applying them in creative ways.
 
