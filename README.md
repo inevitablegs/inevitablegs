@@ -38,6 +38,7 @@ Unity + C#, PyGame
 
 **Android Development:** 
 Android Studio, Kotlin, Java, Jetpack Compose, RoomDB (SQlite)
+
 ---
 
 ### ⭐ Featured Projects
