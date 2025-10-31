@@ -36,7 +36,8 @@ TensorFlow (Keras), scikit-learn, OpenCV, YOLO, NLTK, spaCy
 **Game Development:**  
 Unity + C#, PyGame
 
-
+**Android Development:** 
+Android Studio, Kotlin, Java, Jetpack Compose, RoomDB (SQlite)
 ---
 
 ### ⭐ Featured Projects
