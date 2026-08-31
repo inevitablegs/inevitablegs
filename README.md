@@ -62,7 +62,7 @@ Android Studio, Kotlin, Java, Jetpack Compose, RoomDB (SQLite)
 
 - 🔹 **gitpush**
   
-  [![GitHub Repo](https://img.shields.io/badge/GitHub-gitpush-blue?logo=github)](https://github.com/inevitablegs/gitpush) • [![PyPI version](https://img.shields.io/pypi/v/gitpush-tool.svg)](https://pypi.org/project/gitpush-tool)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub-gitpush-blue?logo=github)](https://github.com/inevitablegs/gitpush-tool) • [![PyPI version](https://img.shields.io/pypi/v/gitpush-tool.svg)](https://pypi.org/project/gitpush-tool)
   
   A smart Git CLI helper that checks if your local branch is ahead and pushes accordingly.  
   Also provides git status insights and optionally opens GitHub when everything is synced.  
